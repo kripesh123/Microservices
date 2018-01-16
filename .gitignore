@@ -1,6 +1,7 @@
 target/
 .mvn/**
 bin/**
+bin/
 mvnw
 **.cmd
 
