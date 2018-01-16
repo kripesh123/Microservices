@@ -15,7 +15,7 @@
 	</properties>
 	<modules>
 		<module>microservice-configuration-basic</module>
-<!-- 		<module>livelessons-configuration-cloudclient</module> -->
-<!-- 		<module>livelessons-configuration-cloudserver</module> -->
+		<module>microservice-configuration-cloudclient</module>
+		<module>microservice-configuration-cloudserver</module>
 	</modules>
 </project>
