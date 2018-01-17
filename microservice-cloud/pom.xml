@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.kripesh</groupId>
+		<artifactId>microservice-parent</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+		<relativePath>../microservice-parent</relativePath>
+	</parent>
+	<artifactId>microservice-cloud</artifactId>
+	<packaging>pom</packaging>
+	<properties>
+		<main.basedir>..</main.basedir>
+	</properties>
+	<modules>
+		<module>microservice-cloud-heroku</module>
+		<!--<module>microservice-cloud-cloudfoundry</module>
+		<module>microservice-cloud-docker</module>
+		<module>microservice-cloud-services</module>
+		<module>microservice-cloud-connectors</module>
+		<module>microservice-cloud-session</module>
+		<module>microservice-cloud-s3</module> -->
+	</modules>
+</project>

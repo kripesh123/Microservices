@@ -11,5 +11,6 @@
 		<module>microservice-parent</module>
 		<module>microservice-bootstrap</module>
 		<module>microservice-configuration</module>
+		<module>microservice-cloud</module>
 	</modules>
 </project>
