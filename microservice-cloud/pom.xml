@@ -15,8 +15,8 @@
 	</properties>
 	<modules>
 		<module>microservice-cloud-heroku</module>
-		<!--<module>microservice-cloud-cloudfoundry</module>
-		<module>microservice-cloud-docker</module>
+		<module>microservice-cloud-cloudfoundry</module>
+		<!--<module>microservice-cloud-docker</module>
 		<module>microservice-cloud-services</module>
 		<module>microservice-cloud-connectors</module>
 		<module>microservice-cloud-session</module>
