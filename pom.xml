@@ -12,5 +12,6 @@
 		<module>microservice-bootstrap</module>
 		<module>microservice-configuration</module>
 		<module>microservice-cloud</module>
+		<module>microservice-integration</module>
 	</modules>
 </project>
